@@ -32,6 +32,7 @@ public class PracticeExercise2 {
         driver.quit();
 
         System.out.println("First Change");
+        System.out.println("2 Change");
 
     }
 }
