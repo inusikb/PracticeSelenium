@@ -31,5 +31,7 @@ public class PracticeExercise2 {
         //Quite browser
         driver.quit();
 
+        System.out.println("First Change");
+
     }
 }
